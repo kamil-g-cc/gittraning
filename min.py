@@ -4,4 +4,4 @@ def min(a, b):
     else:
         return b
 
-
+print(min(2,3))
